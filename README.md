@@ -9,3 +9,5 @@ This is my first github entry.
 Notebook is compatible with Google Colab.
 
 Hope this is useful to a few people and also I am looking forward to the experts to help me make the code better
+
+I have also given the three txt files with image URLs if someone wants to replicate the same
